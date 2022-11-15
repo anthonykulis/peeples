@@ -18,5 +18,8 @@
   "homepage": "https://github.com/anthonykulis/peeples#readme",
   "devDependencies": {
     "jest": "^29.3.1"
+  },
+  "bin": {
+    "helloworld": "./codes/helloworld.js"
   }
 }
